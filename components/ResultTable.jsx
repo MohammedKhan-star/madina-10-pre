@@ -174,7 +174,7 @@ export default function ResultTable({ student }) {
 
               <td
                 className={`p-2 border font-bold ${
-                  sub.result === "PASS"
+                  sub.result === "P"
                     ? "text-green-600"
                     : "text-red-600"
                 }`}
