@@ -90,7 +90,7 @@ export default function ResultTable({ student }) {
 
       const result =
         sub.customResult ||
-        (total >= passMark ? "PASS" : "FAIL");
+        (total >= passMark ? "P" : "F");
 
       if (result === "FAIL") finalResult = "FAIL";
 
