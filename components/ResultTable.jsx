@@ -31,8 +31,8 @@ export default function ResultTable({ student }) {
       biology >= 14 &&
       scienceExam >= 28 &&
       scienceTotal >= 35
-        ? "PASS"
-        : "FAIL";
+        ? "P"
+        : "F";
 
     if (scienceResult === "FAIL") finalResult = "FAIL";
 
