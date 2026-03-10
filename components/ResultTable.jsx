@@ -86,11 +86,8 @@ export default function ResultTable({ student }) {
       const total = sub.fa + sub.exam;
 
       const passMark =
-        sub.name.includes("Language") ? 
-         Exam >= 28 &&
-         Total >= 35
-        ? "PASS"
-        : "FAIL";
+        sub.name.includes("Language") ? 28:27
+         
 
       const result =
         sub.customResult ||
