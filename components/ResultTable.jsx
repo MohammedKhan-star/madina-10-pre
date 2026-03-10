@@ -31,8 +31,8 @@ export default function ResultTable({ student }) {
       biology >= 14 &&
       scienceExam >= 28 &&
       scienceTotal >= 35
-        ? "P"
-        : "F";
+        ? "PASS"
+        : "FAIL";
 
     if (scienceResult === "FAIL") finalResult = "FAIL";
 
@@ -90,7 +90,7 @@ export default function ResultTable({ student }) {
 
       const result =
         sub.customResult ||
-        (total >= passMark ? "P" : "F");
+        (total >= passMark ? "PASS" : "FAIL");
 
       if (result === "FAIL") finalResult = "FAIL";
 
@@ -174,7 +174,7 @@ export default function ResultTable({ student }) {
 
               <td
                 className={`p-2 border font-bold ${
-                  sub.result === "P"
+                  sub.result === "PASS"
                     ? "text-green-600"
                     : "text-red-600"
                 }`}
