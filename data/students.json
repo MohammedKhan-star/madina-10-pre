@@ -208,7 +208,7 @@
 "social":{"name":"Social Studies","fa":14,"exam":47}
 }
 },
-{
+  {
     "rollNumber": "11",
     "hallTicket": "11",
     "studentName": "Fazeelath Begum",
@@ -221,8 +221,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 16, "exam": 30},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 18, "exam": 14},
-        "biological": {"name": "Biological Science", "fa": 18, "exam": 25}
+        "fa": 18,
+        "physical": {"exam": 14},
+        "biological": {"exam": 25}
       },
       "social": {"name": "Social Studies", "fa": 18, "exam": 33}
     }
@@ -240,8 +241,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 19, "exam": 40},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 19, "exam": 19},
-        "biological": {"name": "Biological Science", "fa": 19, "exam": 28}
+        "fa": 19,
+        "physical": {"exam": 19},
+        "biological": {"exam": 28}
       },
       "social": {"name": "Social Studies", "fa": 19, "exam": 42}
     }
@@ -259,8 +261,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 16, "exam": 32},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 18, "exam": 9},
-        "biological": {"name": "Biological Science", "fa": 18, "exam": 18}
+        "fa": 18,
+        "physical": {"exam": 9},
+        "biological": {"exam": 18}
       },
       "social": {"name": "Social Studies", "fa": 16, "exam": 32}
     }
@@ -278,8 +281,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 15, "exam": 36},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 17, "exam": 7},
-        "biological": {"name": "Biological Science", "fa": 17, "exam": 20}
+        "fa": 17,
+        "physical": {"exam": 7},
+        "biological": {"exam": 20}
       },
       "social": {"name": "Social Studies", "fa": 17, "exam": 36}
     }
@@ -297,8 +301,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 20, "exam": 26},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 19, "exam": 14},
-        "biological": {"name": "Biological Science", "fa": 19, "exam": 23}
+        "fa": 19,
+        "physical": {"exam": 14},
+        "biological": {"exam": 23}
       },
       "social": {"name": "Social Studies", "fa": 19, "exam": 35}
     }
@@ -316,8 +321,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 14, "exam": 32},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 18, "exam": 16},
-        "biological": {"name": "Biological Science", "fa": 18, "exam": 25}
+        "fa": 18,
+        "physical": {"exam": 16},
+        "biological": {"exam": 25}
       },
       "social": {"name": "Social Studies", "fa": 15, "exam": 43}
     }
@@ -335,8 +341,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 17, "exam": 28},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 19, "exam": 17},
-        "biological": {"name": "Biological Science", "fa": 19, "exam": 17}
+        "fa": 19,
+        "physical": {"exam": 17},
+        "biological": {"exam": 17}
       },
       "social": {"name": "Social Studies", "fa": 19, "exam": 33}
     }
@@ -354,8 +361,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 18, "exam": 36},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 20, "exam": 18},
-        "biological": {"name": "Biological Science", "fa": 20, "exam": 18}
+        "fa": 20,
+        "physical": {"exam": 18},
+        "biological": {"exam": 18}
       },
       "social": {"name": "Social Studies", "fa": 18, "exam": 34}
     }
@@ -373,8 +381,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 18, "exam": 29},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 16, "exam": 14},
-        "biological": {"name": "Biological Science", "fa": 16, "exam": 14}
+        "fa": 16,
+        "physical": {"exam": 14},
+        "biological": {"exam": 14}
       },
       "social": {"name": "Social Studies", "fa": 16, "exam": 29}
     }
@@ -392,8 +401,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 15, "exam": 32},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 16, "exam": 10},
-        "biological": {"name": "Biological Science", "fa": 16, "exam": 18}
+        "fa": 16,
+        "physical": {"exam": 10},
+        "biological": {"exam": 18}
       },
       "social": {"name": "Social Studies", "fa": 15, "exam": 29}
     }
@@ -411,8 +421,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 20, "exam": 43},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 20, "exam": 22},
-        "biological": {"name": "Biological Science", "fa": 20, "exam": 28}
+        "fa": 20,
+        "physical": {"exam": 22},
+        "biological": {"exam": 28}
       },
       "social": {"name": "Social Studies", "fa": 20, "exam": 50}
     }
@@ -430,8 +441,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 18, "exam": 46},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 18, "exam": 15},
-        "biological": {"name": "Biological Science", "fa": 18, "exam": 20}
+        "fa": 18,
+        "physical": {"exam": 15},
+        "biological": {"exam": 20}
       },
       "social": {"name": "Social Studies", "fa": 17, "exam": 48}
     }
@@ -449,8 +461,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 17, "exam": 39},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 18, "exam": 17},
-        "biological": {"name": "Biological Science", "fa": 18, "exam": 22}
+        "fa": 18,
+        "physical": {"exam": 17},
+        "biological": {"exam": 22}
       },
       "social": {"name": "Social Studies", "fa": 16, "exam": 36}
     }
@@ -468,8 +481,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 16, "exam": 34},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 17, "exam": 13},
-        "biological": {"name": "Biological Science", "fa": 17, "exam": 16}
+        "fa": 17,
+        "physical": {"exam": 13},
+        "biological": {"exam": 16}
       },
       "social": {"name": "Social Studies", "fa": 15, "exam": 44}
     }
@@ -487,8 +501,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 20, "exam": 37},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 19, "exam": 19},
-        "biological": {"name": "Biological Science", "fa": 19, "exam": 21}
+        "fa": 19,
+        "physical": {"exam": 19},
+        "biological": {"exam": 21}
       },
       "social": {"name": "Social Studies", "fa": 18, "exam": 42}
     }
@@ -506,8 +521,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 18, "exam": 43},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 19, "exam": 14},
-        "biological": {"name": "Biological Science", "fa": 19, "exam": 15}
+        "fa": 19,
+        "physical": {"exam": 14},
+        "biological": {"exam": 15}
       },
       "social": {"name": "Social Studies", "fa": 19, "exam": 46}
     }
@@ -525,8 +541,9 @@
       ],
       "mathematics": {"name": "Mathematics", "fa": 18, "exam": 44},
       "science": {
-        "physical": {"name": "Physical Science", "fa": 18, "exam": 17},
-        "biological": {"name": "Biological Science", "fa": 18, "exam": 20}
+        "fa": 18,
+        "physical": {"exam": 17},
+        "biological": {"exam": 20}
       },
       "social": {"name": "Social Studies", "fa": 16, "exam": 44}
     }
