@@ -44,8 +44,8 @@ export default function ResultTable({ student }) {
       let examPassMark = 28;   // Minimum exam marks required
 
       if (sub.name === "2nd Language") {
-        passMark = 20;         // 2nd Language total pass
-        examPassMark = 0;      // No minimum exam mark
+        passMark = 27;         // 2nd Language total pass
+        examPassMark = 20;      // No minimum exam mark
       }
 
       // Result: check customResult (Science) or exam + total pass rules
