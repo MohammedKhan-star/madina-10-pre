@@ -209,359 +209,326 @@
 }
 },
 {
-"rollNumber":"11",
-"hallTicket":"11",
-"studentName":"Ayesha Fatima",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":18,"exam":52},
-{"name":"2nd Language","fa":18,"exam":44},
-{"name":"English","fa":19,"exam":58}
-],
-"mathematics":{"name":"Mathematics","fa":18,"exam":46},
-"science":{
-"fa":19,
-"physical":{"exam":25},
-"biological":{"exam":27}
-},
-"social":{"name":"Social Studies","fa":18,"exam":49}
-}
-},
-
-{
-"rollNumber":"12",
-"hallTicket":"12",
-"studentName":"Mohammed Sameer",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":16,"exam":33},
-{"name":"2nd Language","fa":17,"exam":35},
-{"name":"English","fa":16,"exam":40}
-],
-"mathematics":{"name":"Mathematics","fa":17,"exam":38},
-"science":{
-"fa":17,
-"physical":{"exam":19},
-"biological":{"exam":18}
-},
-"social":{"name":"Social Studies","fa":16,"exam":37}
-}
-},
-
-{
-"rollNumber":"13",
-"hallTicket":"13",
-"studentName":"Sana Parveen",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":20,"exam":60},
-{"name":"2nd Language","fa":19,"exam":48},
-{"name":"English","fa":20,"exam":64}
-],
-"mathematics":{"name":"Mathematics","fa":20,"exam":55},
-"science":{
-"fa":20,
-"physical":{"exam":32},
-"biological":{"exam":30}
-},
-"social":{"name":"Social Studies","fa":19,"exam":52}
-}
-},
-
-{
-"rollNumber":"14",
-"hallTicket":"14",
-"studentName":"Shaik Imran",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":14,"exam":22},
-{"name":"2nd Language","fa":15,"exam":28},
-{"name":"English","fa":15,"exam":31}
-],
-"mathematics":{"name":"Mathematics","fa":15,"exam":29},
-"science":{
-"fa":15,
-"physical":{"exam":13},
-"biological":{"exam":14}
-},
-"social":{"name":"Social Studies","fa":14,"exam":30}
-}
-},
-
-{
-"rollNumber":"15",
-"hallTicket":"15",
-"studentName":"Hafsa Rahman",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":19,"exam":54},
-{"name":"2nd Language","fa":18,"exam":46},
-{"name":"English","fa":19,"exam":59}
-],
-"mathematics":{"name":"Mathematics","fa":19,"exam":48},
-"science":{
-"fa":19,
-"physical":{"exam":28},
-"biological":{"exam":26}
-},
-"social":{"name":"Social Studies","fa":18,"exam":50}
-}
-},
-
-{
-"rollNumber":"16",
-"hallTicket":"16",
-"studentName":"Mohammed Arham",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":17,"exam":37},
-{"name":"2nd Language","fa":16,"exam":32},
-{"name":"English","fa":17,"exam":41}
-],
-"mathematics":{"name":"Mathematics","fa":17,"exam":35},
-"science":{
-"fa":17,
-"physical":{"exam":18},
-"biological":{"exam":19}
-},
-"social":{"name":"Social Studies","fa":17,"exam":38}
-}
-},
-
-{
-"rollNumber":"17",
-"hallTicket":"17",
-"studentName":"Zoya Begum",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":20,"exam":63},
-{"name":"2nd Language","fa":20,"exam":55},
-{"name":"English","fa":20,"exam":66}
-],
-"mathematics":{"name":"Mathematics","fa":20,"exam":57},
-"science":{
-"fa":20,
-"physical":{"exam":33},
-"biological":{"exam":31}
-},
-"social":{"name":"Social Studies","fa":20,"exam":60}
-}
-},
-
-{
-"rollNumber":"18",
-"hallTicket":"18",
-"studentName":"Ahmed Khan",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":16,"exam":35},
-{"name":"2nd Language","fa":16,"exam":34},
-{"name":"English","fa":16,"exam":39}
-],
-"mathematics":{"name":"Mathematics","fa":16,"exam":33},
-"science":{
-"fa":16,
-"physical":{"exam":17},
-"biological":{"exam":18}
-},
-"social":{"name":"Social Studies","fa":16,"exam":36}
-}
-},
-
-{
-"rollNumber":"19",
-"hallTicket":"19",
-"studentName":"Nusrat Jahan",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":19,"exam":58},
-{"name":"2nd Language","fa":18,"exam":47},
-{"name":"English","fa":19,"exam":60}
-],
-"mathematics":{"name":"Mathematics","fa":19,"exam":50},
-"science":{
-"fa":19,
-"physical":{"exam":29},
-"biological":{"exam":30}
-},
-"social":{"name":"Social Studies","fa":19,"exam":53}
-}
-},
-
-{
-"rollNumber":"20",
-"hallTicket":"20",
-"studentName":"Faizan Ali",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":17,"exam":40},
-{"name":"2nd Language","fa":17,"exam":38},
-{"name":"English","fa":17,"exam":42}
-],
-"mathematics":{"name":"Mathematics","fa":17,"exam":36},
-"science":{
-"fa":17,
-"physical":{"exam":20},
-"biological":{"exam":21}
-},
-"social":{"name":"Social Studies","fa":17,"exam":39}
-}
-},
-
-{
-"rollNumber":"21",
-"hallTicket":"21",
-"studentName":"Hiba Noor",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":20,"exam":65},
-{"name":"2nd Language","fa":19,"exam":54},
-{"name":"English","fa":20,"exam":68}
-],
-"mathematics":{"name":"Mathematics","fa":20,"exam":60},
-"science":{
-"fa":20,
-"physical":{"exam":34},
-"biological":{"exam":33}
-},
-"social":{"name":"Social Studies","fa":20,"exam":62}
-}
-},
-
-{
-"rollNumber":"22",
-"hallTicket":"22",
-"studentName":"Mohammed Irfan",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":15,"exam":28},
-{"name":"2nd Language","fa":15,"exam":30},
-{"name":"English","fa":15,"exam":34}
-],
-"mathematics":{"name":"Mathematics","fa":15,"exam":31},
-"science":{
-"fa":15,
-"physical":{"exam":16},
-"biological":{"exam":15}
-},
-"social":{"name":"Social Studies","fa":15,"exam":33}
-}
-},
-
-{
-"rollNumber":"23",
-"hallTicket":"23",
-"studentName":"Sadia Begum",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":19,"exam":57},
-{"name":"2nd Language","fa":18,"exam":49},
-{"name":"English","fa":19,"exam":61}
-],
-"mathematics":{"name":"Mathematics","fa":19,"exam":52},
-"science":{
-"fa":19,
-"physical":{"exam":30},
-"biological":{"exam":29}
-},
-"social":{"name":"Social Studies","fa":19,"exam":55}
-}
-},
-
-{
-"rollNumber":"24",
-"hallTicket":"24",
-"studentName":"Mohammed Bilal",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":16,"exam":36},
-{"name":"2nd Language","fa":16,"exam":34},
-{"name":"English","fa":16,"exam":40}
-],
-"mathematics":{"name":"Mathematics","fa":16,"exam":33},
-"science":{
-"fa":16,
-"physical":{"exam":18},
-"biological":{"exam":17}
-},
-"social":{"name":"Social Studies","fa":16,"exam":37}
-}
-},
-
-{
-"rollNumber":"25",
-"hallTicket":"25",
-"studentName":"Amina Parveen",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":20,"exam":66},
-{"name":"2nd Language","fa":19,"exam":53},
-{"name":"English","fa":20,"exam":69}
-],
-"mathematics":{"name":"Mathematics","fa":20,"exam":61},
-"science":{
-"fa":20,
-"physical":{"exam":35},
-"biological":{"exam":34}
-},
-"social":{"name":"Social Studies","fa":20,"exam":63}
-}
-},
-
-{
-"rollNumber":"26",
-"hallTicket":"26",
-"studentName":"Shaik Rahman",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":17,"exam":39},
-{"name":"2nd Language","fa":17,"exam":36},
-{"name":"English","fa":17,"exam":41}
-],
-"mathematics":{"name":"Mathematics","fa":17,"exam":35},
-"science":{
-"fa":17,
-"physical":{"exam":19},
-"biological":{"exam":20}
-},
-"social":{"name":"Social Studies","fa":17,"exam":38}
-}
-},
-
-{
-"rollNumber":"27",
-"hallTicket":"27",
-"studentName":"Farheen Fatima",
-"schoolName":"Madrasa Madinatul Uloom High School",
-"subjects":{
-"languages":[
-{"name":"1st Language","fa":20,"exam":62},
-{"name":"2nd Language","fa":19,"exam":50},
-{"name":"English","fa":20,"exam":65}
-],
-"mathematics":{"name":"Mathematics","fa":20,"exam":58},
-"science":{
-"fa":20,
-"physical":{"exam":31},
-"biological":{"exam":32}
-},
-"social":{"name":"Social Studies","fa":20,"exam":59}
-}
-}
+    "rollNumber": "11",
+    "hallTicket": "11",
+    "studentName": "Fazeelath Begum",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 14, "exam": 31},
+        {"name": "2nd Language", "fa": 16, "exam": 28},
+        {"name": "English", "fa": 17, "exam": 51}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 16, "exam": 30},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 18, "exam": 14},
+        "biological": {"name": "Biological Science", "fa": 18, "exam": 25}
+      },
+      "social": {"name": "Social Studies", "fa": 18, "exam": 33}
+    }
+  },
+  {
+    "rollNumber": "12",
+    "hallTicket": "12",
+    "studentName": "Bibi Sultana",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 16, "exam": 45},
+        {"name": "2nd Language", "fa": 18, "exam": 28},
+        {"name": "English", "fa": 19, "exam": 60}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 19, "exam": 40},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 19, "exam": 19},
+        "biological": {"name": "Biological Science", "fa": 19, "exam": 28}
+      },
+      "social": {"name": "Social Studies", "fa": 19, "exam": 42}
+    }
+  },
+  {
+    "rollNumber": "13",
+    "hallTicket": "13",
+    "studentName": "Ghousiya Begum",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 15, "exam": 25},
+        {"name": "2nd Language", "fa": 16, "exam": 29},
+        {"name": "English", "fa": 19, "exam": 59}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 16, "exam": 32},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 18, "exam": 9},
+        "biological": {"name": "Biological Science", "fa": 18, "exam": 18}
+      },
+      "social": {"name": "Social Studies", "fa": 16, "exam": 32}
+    }
+  },
+  {
+    "rollNumber": "14",
+    "hallTicket": "14",
+    "studentName": "Shaik Zoya",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 15, "exam": 25},
+        {"name": "2nd Language", "fa": 15, "exam": 25},
+        {"name": "English", "fa": 18, "exam": 58}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 15, "exam": 36},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 17, "exam": 7},
+        "biological": {"name": "Biological Science", "fa": 17, "exam": 20}
+      },
+      "social": {"name": "Social Studies", "fa": 17, "exam": 36}
+    }
+  },
+  {
+    "rollNumber": "15",
+    "hallTicket": "15",
+    "studentName": "Miswa Begum",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 19, "exam": 29},
+        {"name": "2nd Language", "fa": 19, "exam": 35},
+        {"name": "English", "fa": 19, "exam": 59}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 20, "exam": 26},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 19, "exam": 14},
+        "biological": {"name": "Biological Science", "fa": 19, "exam": 23}
+      },
+      "social": {"name": "Social Studies", "fa": 19, "exam": 35}
+    }
+  },
+  {
+    "rollNumber": "16",
+    "hallTicket": "16",
+    "studentName": "Hafsa Maheen",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 15, "exam": 31},
+        {"name": "2nd Language", "fa": 16, "exam": 21},
+        {"name": "English", "fa": 19, "exam": 60}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 14, "exam": 32},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 18, "exam": 16},
+        "biological": {"name": "Biological Science", "fa": 18, "exam": 25}
+      },
+      "social": {"name": "Social Studies", "fa": 15, "exam": 43}
+    }
+  },
+  {
+    "rollNumber": "17",
+    "hallTicket": "17",
+    "studentName": "Saniya Begum",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 17, "exam": 35},
+        {"name": "2nd Language", "fa": 15, "exam": 29},
+        {"name": "English", "fa": 19, "exam": 46}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 17, "exam": 28},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 19, "exam": 17},
+        "biological": {"name": "Biological Science", "fa": 19, "exam": 17}
+      },
+      "social": {"name": "Social Studies", "fa": 19, "exam": 33}
+    }
+  },
+  {
+    "rollNumber": "18",
+    "hallTicket": "18",
+    "studentName": "Hajera Begum",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 18, "exam": 28},
+        {"name": "2nd Language", "fa": 17, "exam": 28},
+        {"name": "English", "fa": 17, "exam": 44}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 18, "exam": 36},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 20, "exam": 18},
+        "biological": {"name": "Biological Science", "fa": 20, "exam": 18}
+      },
+      "social": {"name": "Social Studies", "fa": 18, "exam": 34}
+    }
+  },
+  {
+    "rollNumber": "19",
+    "hallTicket": "19",
+    "studentName": "Mohammed Sufiyan",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 15, "exam": 42},
+        {"name": "2nd Language", "fa": 16, "exam": 37},
+        {"name": "English", "fa": 15, "exam": 35}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 18, "exam": 29},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 16, "exam": 14},
+        "biological": {"name": "Biological Science", "fa": 16, "exam": 14}
+      },
+      "social": {"name": "Social Studies", "fa": 16, "exam": 29}
+    }
+  },
+  {
+    "rollNumber": "20",
+    "hallTicket": "20",
+    "studentName": "Tanzia Begum",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 13, "exam": 18},
+        {"name": "2nd Language", "fa": 14, "exam": 17},
+        {"name": "English", "fa": 17, "exam": 38}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 15, "exam": 32},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 16, "exam": 10},
+        "biological": {"name": "Biological Science", "fa": 16, "exam": 18}
+      },
+      "social": {"name": "Social Studies", "fa": 15, "exam": 29}
+    }
+  },
+  {
+    "rollNumber": "21",
+    "hallTicket": "21",
+    "studentName": "Iqra Farheen",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 19, "exam": 56},
+        {"name": "2nd Language", "fa": 20, "exam": 31},
+        {"name": "English", "fa": 20, "exam": 67}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 20, "exam": 43},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 20, "exam": 22},
+        "biological": {"name": "Biological Science", "fa": 20, "exam": 28}
+      },
+      "social": {"name": "Social Studies", "fa": 20, "exam": 50}
+    }
+  },
+  {
+    "rollNumber": "22",
+    "hallTicket": "22",
+    "studentName": "Ahmed Faizan Khan",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 16, "exam": 32},
+        {"name": "2nd Language", "fa": 14, "exam": 30},
+        {"name": "English", "fa": 15, "exam": 53}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 18, "exam": 46},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 18, "exam": 15},
+        "biological": {"name": "Biological Science", "fa": 18, "exam": 20}
+      },
+      "social": {"name": "Social Studies", "fa": 17, "exam": 48}
+    }
+  },
+  {
+    "rollNumber": "23",
+    "hallTicket": "23",
+    "studentName": "Ayesha Tabassum",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 17, "exam": 28},
+        {"name": "2nd Language", "fa": 12, "exam": 20},
+        {"name": "English", "fa": 19, "exam": 45}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 17, "exam": 39},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 18, "exam": 17},
+        "biological": {"name": "Biological Science", "fa": 18, "exam": 22}
+      },
+      "social": {"name": "Social Studies", "fa": 16, "exam": 36}
+    }
+  },
+  {
+    "rollNumber": "24",
+    "hallTicket": "24",
+    "studentName": "Mahammed Fayum",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 17, "exam": 40},
+        {"name": "2nd Language", "fa": 15, "exam": 32},
+        {"name": "English", "fa": 16, "exam": 53}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 16, "exam": 34},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 17, "exam": 13},
+        "biological": {"name": "Biological Science", "fa": 17, "exam": 16}
+      },
+      "social": {"name": "Social Studies", "fa": 15, "exam": 44}
+    }
+  },
+  {
+    "rollNumber": "25",
+    "hallTicket": "25",
+    "studentName": "Sheik Mushtakali Itafaqali",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 18, "exam": 30},
+        {"name": "2nd Language", "fa": 18, "exam": 28},
+        {"name": "English", "fa": 19, "exam": 66}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 20, "exam": 37},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 19, "exam": 19},
+        "biological": {"name": "Biological Science", "fa": 19, "exam": 21}
+      },
+      "social": {"name": "Social Studies", "fa": 18, "exam": 42}
+    }
+  },
+  {
+    "rollNumber": "26",
+    "hallTicket": "26",
+    "studentName": "Mohd Sajeed",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 16, "exam": 40},
+        {"name": "2nd Language", "fa": 16, "exam": 32},
+        {"name": "English", "fa": 18, "exam": 51}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 18, "exam": 43},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 19, "exam": 14},
+        "biological": {"name": "Biological Science", "fa": 19, "exam": 15}
+      },
+      "social": {"name": "Social Studies", "fa": 19, "exam": 46}
+    }
+  },
+  {
+    "rollNumber": "27",
+    "hallTicket": "27",
+    "studentName": "Mohammed Ateeq Shareef",
+    "schoolName": "Madrasa Madinatul Uloom High School",
+    "subjects": {
+      "languages": [
+        {"name": "1st Language", "fa": 19, "exam": 31},
+        {"name": "2nd Language", "fa": 17, "exam": 20},
+        {"name": "English", "fa": 18, "exam": 55}
+      ],
+      "mathematics": {"name": "Mathematics", "fa": 18, "exam": 44},
+      "science": {
+        "physical": {"name": "Physical Science", "fa": 18, "exam": 17},
+        "biological": {"name": "Biological Science", "fa": 18, "exam": 20}
+      },
+      "social": {"name": "Social Studies", "fa": 16, "exam": 44}
+    }
+  }
 ]
