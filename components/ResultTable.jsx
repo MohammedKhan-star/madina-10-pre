@@ -81,9 +81,9 @@ export default function ResultTable({ student }) {
 
     processed = processed.map(sub => {
 
-      const total = sub.fa + sub.exam;
+      const total = sub.exam;
 
-      const passMark =28;
+      const passMark = 28;
       if (sub.name==="2nd Language"){
         passMark=20;
       }
