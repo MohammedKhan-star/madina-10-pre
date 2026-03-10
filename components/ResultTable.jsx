@@ -27,8 +27,6 @@ export default function ResultTable({ student }) {
     const scienceTotal = subjects.science.fa + scienceExam;
 
     const scienceResult =
-      physics >= 14 &&
-      biology >= 14 &&
       scienceExam >= 28 &&
       scienceTotal >= 35
         ? "PASS"
@@ -85,8 +83,10 @@ export default function ResultTable({ student }) {
 
       const total = sub.fa + sub.exam;
 
-      const passMark =
-        sub.name.includes("Language") ? 28:27
+      const passMark =28;
+      if (sub.name==="2nd Language"){
+        passMark=20;
+      }
          
 
       const result =
