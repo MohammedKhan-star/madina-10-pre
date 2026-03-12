@@ -547,25 +547,6 @@
       },
       "social": {"name": "Social Studies", "fa": 16, "exam": 44}
     }
-  },
-  {
-    "rollNumber": "28",
-    "hallTicket": "28",
-    "studentName": "Abubaker",
-    "schoolName": "Madrasa Madinatul Uloom High School",
-    "subjects": {
-      "languages": [
-        {"name": "1st Language", "fa": 20, "exam": 80},
-        {"name": "2nd Language", "fa": 17, "exam": 52},
-        {"name": "English", "fa": 20, "exam": 79}
-      ],
-      "mathematics": {"name": "Mathematics", "fa": 18, "exam": 80},
-      "science": {
-        "fa": 20,
-        "physical": {"exam": 40},
-        "biological": {"exam": 40}
-      },
-      "social": {"name": "Social Studies", "fa": 16, "exam": 80}
-    }
   }
+
 ]
